@@ -54,6 +54,11 @@ Once my query was validated, I created a **Scheduled Query Rule** in **Sentinel 
 - 🔔 **Automatically created an Incident when the rule was triggered**  
 - 🗂 **Grouped all alerts into a single Incident per 24-hour period**  
 
+![image](https://github.com/user-attachments/assets/032e369f-8d86-4722-bb68-48e72a4890b7) ![image](https://github.com/user-attachments/assets/1eb6f3f4-05db-4420-8fd9-8279ca2212f9)
+
+
+
+
 ---
 
 ## Part 2: Triggering an Alert and Creating an Incident  
@@ -122,7 +127,10 @@ SigninLogs
 ✅ **Reviewed and confirmed the incident was fully resolved.**  
 📝 **Ensured all findings and actions were properly documented** within Sentinel.  
 🚪 **Closed the case**, categorizing it as:    
-- ❌ **False Positive** *(Normal behavior, no further action needed)*  
+- ❌ **False Positive** *(Normal behavior, no further action needed)*
+
+  ![image](https://github.com/user-attachments/assets/a12a2112-3f03-4160-a88f-2f528a44d234)
+
 
 ---
 
